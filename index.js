@@ -231,7 +231,7 @@ client.on("message", async message => {
                 .setAuthor("SUPPORT MAIL OPENED")
                 .setColor("GREEN")
                 .setThumbnail(client.user.displayAvatarURL())
-                .setDescription("Conversation is now started, you will be contacted by Sponic staff's soon")
+                .setDescription("Conversation is now started, you will be contacted by cpt.motchy's staff soon")
 
             message.author.send(sembed)
 
