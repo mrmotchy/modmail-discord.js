@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/mrmotchy/stuff/blob/main/District%2074.png?raw=true" height="250" width="300">
 
-# Mod-Mail discord.js bo
+# Mod-Mail discord.js bot
 
 [![Downloads](https://img.shields.io/github/downloads/jagrosh/MusicBot/total.svg)](https://discord.gg/9ZrzNkzeN4)
 [![PayPal](https://img.shields.io/badge/donate-PayPal-104098.svg?style=plastic&logo=PayPal)](https://paypal.me/mrmotchy)
