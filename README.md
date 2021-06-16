@@ -29,7 +29,7 @@
   
 ## Made with ❤️ and javascript
 
-![](https://github.com/mrmotchy/stuff/blob/main/Unbe4433nannt.PNG?raw=true)
+![](https://github.com/mrmotchy/stuff/blob/main/Bild_2021-06-16_133401.png?raw=true)
 
 ## Installation
 
